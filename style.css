@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+#color{
+    width: 250px;
+    height: 250px;
+    background-color: grey;
+}
+
+.container-app{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-top: 100px;
+}
